@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/mingggkeee/miniforge3/envs/mingggkeee/bin/python"
+    "python.pythonPath": "/Users/mingggkeee/miniforge3/envs/mingggkeee/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
