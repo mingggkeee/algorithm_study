@@ -38,7 +38,7 @@ def topology_sort():
             if indegree[i] == 0:
                 q.append(i)
 
-    # 위상 정렬을 수행한 결과 출력
+    # 위상 정렬을 수행
     for i in range(1, v+1):
         print(result[i])
 
